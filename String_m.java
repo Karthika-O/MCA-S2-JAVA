@@ -1,3 +1,7 @@
+/* Question 7.
+Program to perform String manipulations
+*/
+
 public class String_m 
 {
     String str;
