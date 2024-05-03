@@ -1,3 +1,7 @@
+/* Question 10.2.
+Create classes Student and Sports.Create another class Result inherited from Student and Sports. Display the Academic and Sports score of a student.
+*/
+
 import java.util.Scanner;
 
 interface Sports 
