@@ -1,4 +1,6 @@
-//Question 13
+/* Question 13. 
+Write a user defined exception class to authenticate the user name and password.
+*/
 
 import java.util.Scanner;
 
