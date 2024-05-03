@@ -1,3 +1,7 @@
+/* Question 6.
+Program to sort strings
+*/
+
 import java.util.*;
 class Sorting 
 {
