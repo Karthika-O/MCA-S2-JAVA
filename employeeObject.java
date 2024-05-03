@@ -1,3 +1,7 @@
+/* Question 8.
+Create a class Employee having attributes eNo,eName,eSalary. Read N employ information and search for an employee given eNo, using the concept of Array of objects.
+*/
+
 import java.util.*;  
 class employeeObject
 {
